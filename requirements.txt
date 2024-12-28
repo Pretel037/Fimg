@@ -3,6 +3,5 @@ diffusers
 transformers
 pillow
 requests
-streamlit
 accelerate
 gunicorn
