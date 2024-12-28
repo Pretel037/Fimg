@@ -1,4 +1,4 @@
-streamlit==1.22.0
+
 torch==2.1.0+cu118  # Asegúrate de instalar la versión adecuada según tu GPU y entorno
 diffusers==0.22.0
 transformers==4.32.0
