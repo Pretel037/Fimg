@@ -1,6 +1,6 @@
 
-torch==2.1.0+cu118  # Asegúrate de instalar la versión adecuada según tu GPU y entorno
-diffusers==0.22.0
-transformers==4.32.0
-pillow==9.6.1
-requests==2.31.0
+torch
+diffusers
+transformers
+pillow
+requests
